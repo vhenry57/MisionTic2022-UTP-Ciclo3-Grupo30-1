@@ -1,0 +1,51 @@
+<footer class="text-center footer-style">
+    <!-- Primera aproximacion para footer Chatas.com by HenryV-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 footer-col">
+                <h3>Afiliacion</h3>
+                <p>
+                    Afiliado a: <br />
+                    Circulo de Sabores
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-md-8 footer-col">
+                    <h3>Copyright</h3>
+                    <p>
+                        Copyright (C) 2021. Powered by Chatas Animation Inc.
+                    </p>
+                </div>
+            <div class="col-md-4 footer-col">
+                <h3>Mis redes</h3>
+                <ul class="list-inline">
+                    <li>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                    </li>
+                    <li>
+                    <li>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                    </li>
+                    <li>                        
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-youTube"></i></a>
+                    </li>
+                    <li>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                    </li>
+                    <li>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                    </li>
+                    <li>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-Pinterest"></i></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 footer-col">
+                <h3>Contáctanos</h3>
+                <p>info@chatas.com <br>
+                3019876543
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
